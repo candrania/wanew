@@ -38,7 +38,7 @@ if (Build.LANG == 'SI') VER = '🧬 Version'
 if (Build.LANG == 'EN') VER = '🧬 Version'
 
 var MSG = ''
-if (Build.ALIVEMSG == 'default') MSG = '```Hey There! Bot Online now. 💃🏻♥️```\n\n*Developer:* ```Black Amda```\n\n*Official Website:* https://amdaniwasa.com\n\n*Youtube channel :* https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n```Thank You For Using Queen Amdi💞```'
+if (Build.ALIVEMSG == 'default') MSG = '```Hey Shubham, Your Bot is online!```\n\n*Owner:* ```thetechboy3```\n\n*GitHub Profile:* github.com/thetechboy3\n\n*Telegram :* t.me/thetechboy3\n\n```Have a Nice Day 💙```'
 else MSG = Build.ALIVEMSG
 
 
@@ -62,7 +62,7 @@ Amdi.operate({pattern: 'alive', fromMe: Work_Mode, desc: Lang.ALIVE_DESC,  delet
     ]
     const buttonMessage = {
         contentText: MSG,
-        footerText: 'ǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ',
+        footerText: '*ꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ*',
         buttons: buttons,
         headerType: 4,
         imageMessage: media.message.imageMessage    
@@ -81,10 +81,10 @@ Amdi.operate({pattern: 'qasysstats', fromMe: Work_Mode, desc: Lang.SYSD_DESC, do
 Amdi.operate({pattern: 'qaversion', fromMe: Work_Mode, desc: Lang.BOT_V, dontAddCommandList: true,  deleteCommand: false}, (async (message, match) => {
     await QueenAmdi.amdi_setup()
     await message.client.sendMessage(message.jid, 
-        `*🧬 Queen Amdi Version 🧬*\n\n` + 
+        `*🧬 ꜱɪʟᴠᴇʀ ʙᴏᴛ Version 🧬*\n\n` + 
         '```Installed version :```\n' +
         Lang.version + 
-        `\n\nCheck official website : https://amdaniwasa.com/`
+        `\n\nCheck GitHub Profile : https://github.com/thetechboy3`
    , MessageType.text, {quoted: message.data});
     
 }));
