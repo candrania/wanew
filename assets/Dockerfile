@@ -1,4 +1,4 @@
-FROM candrania/wanew:public
+FROM candrania/wanew
 
 RUN git clone https://github.com/candrania/wanew /root/wanew
 WORKDIR /root/wanew/
