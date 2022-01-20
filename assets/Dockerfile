@@ -1,7 +1,7 @@
-FROM candrania/WAnew:public
+FROM candrania/wanew:public
 
-RUN git clone https://github.com/candrania/WAnew /root/WAnew
-WORKDIR /root/WAnew/
+RUN git clone https://github.com/candrania/wanew /root/wanew
+WORKDIR /root/wanew/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --no-audit
