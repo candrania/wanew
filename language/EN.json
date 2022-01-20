@@ -26,31 +26,31 @@
             "HELP_DESC" : "⎔════════════════⎔\n       ▷ 📚 Self Support Kit ◁\n⎔════════════════⎔",
             "SELECT" : "Click Here",
             "DESC" : "Self Support Kit",
-            "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "ALOGO_DESC" : "How to set alive logo",
-            "AMESS" : "*💠  How to set alive message  💠* \n\n❇️ Put the message that you wants to set as the alive message\n❇️ Mention that message and type *.setup alive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "AMESS" : "*💠  How to set alive message  💠* \n\n❇️ Put the message that you wants to set as the alive message\n❇️ Mention that message and type *.setup alive* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ" ,
             "AMESS_DESC" : "How to set alive message",
-            "WLOGO" : "*💠  How to set welcome logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the welcome logo\n❇️ Mention that photo and type *.setwelcome* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "WLOGO" : "*💠  How to set welcome logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the welcome logo\n❇️ Mention that photo and type *.setwelcome* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "WLOGO_DESC" : "How to set welcome logo",
-            "WMESS" : "*💠  How to set welcome message  💠* \n\n❇️ Put the message that you wants to set as the welcome message\n❇️ Mention that message and type *.setup welcome* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "WMESS" : "*💠  How to set welcome message  💠* \n\n❇️ Put the message that you wants to set as the welcome message\n❇️ Mention that message and type *.setup welcome* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "WMESS_DESC" : "How to set welcome message",
-            "BLOGO" : "*💠  How to set Good Bye logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the good bye logo\n❇️ Mention that photo and type *.setbye* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BLOGO" : "*💠  How to set Good Bye logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the good bye logo\n❇️ Mention that photo and type *.setbye* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "BLOGO_DESC" : "How to set goodbye logo",
-            "BMESS" : "💠  How to set Good Bye message  💠 \n\n❇️ Put the message that you wants to set as the good bye message\n❇️ Mention that message and type *.setup bye* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BMESS" : "💠  How to set Good Bye message  💠 \n\n❇️ Put the message that you wants to set as the good bye message\n❇️ Mention that message and type *.setup bye* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "BMESS_DESC" : "How to set goodbye message",
-            "RMESS" : "💠  How to add rules to the group  💠\n\n❇️ Put the message that you wants to add to the rules\n❇️ Mention that message and type *.setrules* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "RMESS" : "💠  How to add rules to the group  💠\n\n❇️ Put the message that you wants to add to the rules\n❇️ Mention that message and type *.setrules* \n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "RMESS_DESC" : "How to set group rules",
-            "SUMESS" : "💠  *How add numbers to the sudo without going to heroku*  💠  \n\n❇️ Make the numbers that you want to set sudo as, 94xxxxxxxxx \n(International format wothout *+* and *spaces*)\n❇️ .setvar sudo=94xxxxxxxxx,0,\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ ",
+            "SUMESS" : "💠  *How add numbers to the sudo without going to heroku*  💠  \n\n❇️ Make the numbers that you want to set sudo as, 94xxxxxxxxx \n(International format wothout *+* and *spaces*)\n❇️ .setvar sudo=94xxxxxxxxx,0,\n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ ",
             "SUMESS_DESC" : "How to add SUDO numbers",
-            "BLOCKMESS" : "*💠 How to disable bot for unwanted groups 💠*\n\n*❇️ How to get the Jid number of the group that you wants to Chat Block.*\n\n⚙️ To get the Jid number, go to the group that you want to Chat Block. Send a command to the group as *.jid* then you will get the Jid number of that particular group.\n❇️ Take the only the numbers from the Jid number that you got *(copy only the number)*.\n\nThe way you get the Jid number of that particular group :-\nChat's JID address: ```977489037858-1329946663@g.us```\n\nFrom this we should only take :- *977489037858-1329946663* the numbers.\n\n❇️ Now copy the numbers and log in to your heroku account, then go to the bot application of your bot.\n❇️ Go to the settings.\n❇️ You will see a button as *Reveal Config Vars* click on that button.\n❇️ After that you will see the Config Vars of your Application. Now scroll down until you get *BLOCK_CHAT*\n❇️ After you found BLOCK_CHAT click the editor pencil corresponding to it.Then you will go to a page with two boxes.\n❇️ On the new page that you got, in the box named as *VALUE* paste the Jid number as :- \n*977489037858-1329946663,* \n❇️ The click on the *SAVE CHANGES* button.\n❇️ Now click the *MORE* button in top right conner, and click on the *Restart all dynos* and restart the bot.\n\n⚠️ When you are adding Jid number of many groups add them as :-\n```xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,```\n\n*💠 Easy way to BLOCK_CHAT. 💠*\n❇️ .setvar BLOCK_CHAT=xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BLOCKMESS" : "*💠 How to disable bot for unwanted groups 💠*\n\n*❇️ How to get the Jid number of the group that you wants to Chat Block.*\n\n⚙️ To get the Jid number, go to the group that you want to Chat Block. Send a command to the group as *.jid* then you will get the Jid number of that particular group.\n❇️ Take the only the numbers from the Jid number that you got *(copy only the number)*.\n\nThe way you get the Jid number of that particular group :-\nChat's JID address: ```977489037858-1329946663@g.us```\n\nFrom this we should only take :- *977489037858-1329946663* the numbers.\n\n❇️ Now copy the numbers and log in to your heroku account, then go to the bot application of your bot.\n❇️ Go to the settings.\n❇️ You will see a button as *Reveal Config Vars* click on that button.\n❇️ After that you will see the Config Vars of your Application. Now scroll down until you get *BLOCK_CHAT*\n❇️ After you found BLOCK_CHAT click the editor pencil corresponding to it.Then you will go to a page with two boxes.\n❇️ On the new page that you got, in the box named as *VALUE* paste the Jid number as :- \n*977489037858-1329946663,* \n❇️ The click on the *SAVE CHANGES* button.\n❇️ Now click the *MORE* button in top right conner, and click on the *Restart all dynos* and restart the bot.\n\n⚠️ When you are adding Jid number of many groups add them as :-\n```xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,```\n\n*💠 Easy way to BLOCK_CHAT. 💠*\n❇️ .setvar BLOCK_CHAT=xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,\n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "BLOCKMESS_DESC": "How to block unwanted groups",
-            "PLUGINNOTE" : "💠 *💠 *How to install Queen Amdi External Plugins?* 💠\n\n❇️ Write *.search* command to get plugin links.\n❇️ Now, choose your plugin and copy your plugin link.\n❇️ Wirte *.install plugin_link* and send it.\n❇️ It will simply installed.\n\n\n💠 *How to remove external plugins?* 💠\n\n❇️ Write *.plugin* to get installed plugin list.\n\n❇️ Now, Take plugin name and type *.remove plugin_name*\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "PLUGINNOTE" : "💠 *💠 *How to install Silver Bot External Plugins?* 💠\n\n❇️ Write *.search* command to get plugin links.\n❇️ Now, choose your plugin and copy your plugin link.\n❇️ Wirte *.install plugin_link* and send it.\n❇️ It will simply installed.\n\n\n💠 *How to remove external plugins?* 💠\n\n❇️ Write *.plugin* to get installed plugin list.\n\n❇️ Now, Take plugin name and type *.remove plugin_name*\n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "PLUGINNOTE_DESC" : "Add / Remove plugins",
-            "HAPIKEY" : "💠 *How to change Heroku API KEY ?* 💠\n\n❇️ First go _*https://dashboard.heroku.com/account*_\n❇️ Scoll down & you can see *Reveal* button\n❇️ Touch on *Reveal* button & copy that key\n❇️ Now go  _*https://dashboard.heroku.com/*_ & select your bot application\n❇️ Go to Settings and scroll down you can see the *reveal config vars* button.\n❇️ Touch it & scroll down you can see ther var *HEROKU_API_KEY*\n❇️ Touch on the pencil . You can edit it now\n❇️ Paste the API Key you copied before\n❇️ After edit click *save changes* button & *restart all dynos*\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "HAPIKEY" : "💠 *How to change Heroku API KEY ?* 💠\n\n❇️ First go _*https://dashboard.heroku.com/account*_\n❇️ Scoll down & you can see *Reveal* button\n❇️ Touch on *Reveal* button & copy that key\n❇️ Now go  _*https://dashboard.heroku.com/*_ & select your bot application\n❇️ Go to Settings and scroll down you can see the *reveal config vars* button.\n❇️ Touch it & scroll down you can see ther var *HEROKU_API_KEY*\n❇️ Touch on the pencil . You can edit it now\n❇️ Paste the API Key you copied before\n❇️ After edit click *save changes* button & *restart all dynos*\n\nꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "HAPIKEY_DESC" : "How to change Heroku API key"
         },
         "_settings": {
-            "RESTART": "*💬 Queen Amdi automatically restarting!*",
+            "RESTART": "*💬 ꜱɪʟᴠᴇʀ ʙᴏᴛ automatically restarting!*",
             "SUCPUB": "✅ Public mode activated!",
             "SUCPVT": "✅ Private mode activated!"
         },
@@ -80,7 +80,7 @@
             "NEED_SUB": "You must type a group name.",
             "NEED_DESC": "You must type a group description.",
             "END": "Clear chat",
-            "SEARCH": "To view the current plugin list supported to Queen Amdi.",
+            "SEARCH": "To view the current plugin list supported to ꜱɪʟᴠᴇʀ ʙᴏᴛ.",
             "REVOKED": "✅ Group link successfully revoked.",
             "REMOVE_ALL": "_Removing all members started!_"
         },
@@ -91,7 +91,7 @@
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I'm not offline anymore!```",
-            "AFK_TEXT": "```Bip Bop! I am a bot. My owner is not here at the moment.```",
+            "AFK_TEXT": "```Bip Bop! I am a bot. Shubham is not here at the moment.```",
             "AFK_TEXT_NOMD": "Bip Bop! I am a bot.",
             "HOUR": "Hour",
             "MINUTE": "Minutes",
@@ -103,7 +103,7 @@
             "NEED_WORD":"Please enter a valid link!",
             "FBDESC":"Download Facebook videos.",
             "YTDESC": "Download songs or videos from YouTube.",
-            "NEED_VIDEO": "*Please write a YouTube link!*\n*Example:* .yt https://www.youtube.com/watch?v=f0bbDFRYD_A",
+            "NEED_VIDEO": "*Please write a YouTube link!*",
             "yt_title": "📄 *Title* : ",
             "yt_chan": "\n🎬 *Author* : ",
             "yt_link": "\n🌐 *Youtube link* : ",
@@ -113,7 +113,7 @@
             "DOWNLOADING_VIDEO": "\n```🔄 Downloading your video...```\n",
             "UPLOADING_VIDEO":"\n```⬆️ Uploading your video...```\n",
             "NO_RESULT": "*🧰 Please try again later.*",
-            "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact bot owner to increase limit: "
+            "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact thetechboy3 to increase limit: "
         },
         "effects":{
             "NEED_WORD": "*You must enter a word*",
@@ -153,7 +153,7 @@
             "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Queen Amdi",
+            "RESTART_DESC": "Restart ꜱɪʟᴠᴇʀ ʙᴏᴛ",
             "RESTART_MSG": "```♻️ Restarting...```",
             "SHUTDOWN_DESC": "To shut down bot",
             "SHUTDOWN_MSG": "```Shutdown ⛔```",
@@ -189,7 +189,7 @@
             "NOADMIN": "*Need admin permission!*"
         },
         "information":{
-            "COVID_DESC": "Check information about Covid-19 of countries.\nExample : .covid Sri Lanka",
+            "COVID_DESC": "Check information about Covid-19 of countries.\nExample : .covid India",
             "NEED_CON": "Please enter a country name.",
             "NO_RESULT": "*I could not find that country :(*",
             "COUNTRY": "🌏 *Country* : ",
@@ -353,7 +353,7 @@
             "SAVE_USAGE": "Reply *.save* to a message or type *.save <your_note>*",
             "REPLY": "Please give me the note.",
             "SUCCESSFULLY_ADDED": "Successfully added new note, check your notes with .notes.",
-            "UNSUCCESSFUL": "Could not add note, please try again later or contact QueenAmdi developers.",
+            "UNSUCCESSFUL": "Could not add note, please try again later or contact thetechboy3.",
             "DELETE_USAGE": "Clear your all notes.",
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
@@ -375,7 +375,7 @@
             "APK_DEV": "\n👨🏻‍💻 Developer : ",
             "APK_V": "\n📟 Version : ",
             "APK_SUM": "\n📃 Summary : ",
-            "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact bot owner to increase limit: "
+            "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact thetechboy3 to increase limit: "
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
@@ -412,7 +412,7 @@
             "ID_WORD": "║ _Report ID :_ ",
             "USER": "║ _User :_ ",
             "REASON": "║ _Reason :_ ",
-            "END": "╚═➤ *✘👸🏻♥️𝚀𝚞𝚎𝚎𝚗 𝙰𝚖𝚍𝚒 𝙿𝚞𝚋𝚕𝚒𝚌♥️👸🏻✘* ═➤",
+            "END": "╚═➤ *ꜱɪʟᴠᴇʀ ʙᴏᴛ  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ* 🌀* ═➤",
             "REPLY": "Please reply to a message",
             "BR": "║"
         },
@@ -484,7 +484,7 @@
             "NEED_WORD": "*Please reply to a message*"
         },
         "tiktok":{
-            "TK_DESC": "Stalk tiktok profile to a given username.\n⌨️ Example: .tk _black.amda_",
+            "TK_DESC": "Stalk tiktok profile to a given username.",
             "REPLY": "```Please enter a valid tiktok username!```",
             "TKID": "🆔 *Titkok Id* :\n",
             "USERNAME": "\n\n📄 *Username* :\n",
@@ -502,12 +502,6 @@
             "DLOAD_TKM": "\n```🔄 Your music is downloading...```\n",
             "UPLOADING_TKM": "\n```🔂 Your music is uploading...```\n"
         },
-        "unlimiteddata":{
-            "ehi_desc": "Make your data packages to unlimited data packages.\n*(Only for Sri Lankan Users)*",
-            "ehi_help": "╔═══════❪💃🏻♥️❫\n\n▷ *❖ Queen Amdi Unlimited Data ❖* ◁\n\n```[EHI Method]```\n\n╚═════≪ •❈• ≫═════",
-            "ehi_info": "*✨ What is EHI file?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nAn EHI file is a config file used by Evozi HTTP Injector, an Android app that allows users to browse the Internet via a VPN.\nThese files contain settings to configure HTTP Injector, including server login credentials and security/locking information.\nHTTP Injector allows users to spoof their location and mask their identity while browsing the Internet, using an SSH connection and proxy servers.\nIt also allows users to access websites that have been blocked by their ISP's(Internet Service Provider Or your SIM company) firewall.\nAs such, the app and the EHI files associated with it are popular in countries that restrict or monitor their populace's Internet access.\n\n*In Sri Lanka,* we have unlimited packages from so many ISP.\n\n(Ex: Dialog Rs.97 Unlimited Facebook, WhatsApp & YouTube)\n\nSo, we can use this oppurtunity to crack their block and visit other sites blocker and brwose unlimited internet by using EHI.\n\n```[Author : Black Amda]```",
-            "ehi_how": "*How to install EHI?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n_Note : You need to activate unilimited data package. And DON'T TRY THIS IF YOU ALREADY HAVE DATA REMAINING._\n\n1️⃣ Download and install HTTP Injector. (Type *.ehi* click download files button to get apk)\n\n2️⃣ Download one page of EHI files from bot.\n🔧 Type *.ehi* and click Download files and select All EHI files to get EHI files.\n\n3️⃣ Select your suitable EHI for your package.\n```Example :``` If you have activated facebook only unlimited package from SIM. You have to choose EHI Files with name *Facebook*. Then, you can browse other sites from your facebook only unlimited data package.\n\n4️⃣ Now, click on your selected EHI file and open from HTTP Injector.\n\n5️⃣ Click *Start* button to connect EHI config.\n\nNow you can ENJOY UNLIMITED DATA.\n\nIf your connection slow, change EHI files from another server (US 01, US 02, SG).\n\nThese EHI files only valid for *30days* from import date. After that you have to get another set of EHI and renew. And also you can change server from Injector app settings.\n\n```Queen Amdi Team💃🏻♥️```"
-        },
         "unvoice": {
             "UV_DESC": "Convert mp3 into a WA voice message",
             "UV_REPLY": "*Please reply to a mp3!*",
@@ -519,10 +513,10 @@
             "NEW_UPDATE": "*Your bot have some updates!*\nType *.update now*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Updating your bot",
             "UPDATING": "_Updating...🔄_",
-            "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
+            "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong!*",
             "UPDATED": "*✅ Successfully updated!*",
             "UPDATED_LOCAL": "*✅ Successfully updated!*",
-            "AFTER_UPDATE": "*💬 Queen Amdi automatically restarting!*",
+            "AFTER_UPDATE": "*💬 ꜱɪʟᴠᴇʀ ʙᴏᴛ automatically restarting!*",
             "VERIFY_DESC": "Verify your bot officially.",
             "VERIFY": "*Your bot is verified!✅*",
             "VERIFIED": "*✅ Successfully verified!*",
@@ -547,7 +541,7 @@
         },
         "weather": {
             "WEATHER_DESC": "Check weather.",
-            "NEED_LOCATION": "*Please wirte a place!*\n*Example:* ```.weather Colombo```",
+            "NEED_LOCATION": "*Please wirte a place!*\n*Example:* ```.weather Nagpur```",
             "LOCATION": "Place",
             "TEMP": "Temperature",
             "DESC": "Description",
@@ -564,10 +558,7 @@
             "DOWNLOAD": "Download",
             "PING_DESC": "Your ping.",
             "URL": "Shorten link.",
-            "NEED": "*Need a link!*",
-            "AMDI_QR": "Get QR code to install Queen Amdi Bot.",
-            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi to install the bot. _(Type *.getqr stop* to stop QR generating)_",
-            "INBOX": "*Please get QR from messaging to inbox. _(.getqr)_*"
+            "NEED": "*Need a link!*"
         }
     }
 }
